@@ -1,0 +1,4 @@
+model,accuracy,precision,recall,f1
+Logistic Regression,0.8732,0.8559,0.9048,0.8796
+Decision Tree,0.9854,1.0,0.9714,0.9855
+Decision Tree (Tuned),0.9854,1.0,0.9714,0.9855
